@@ -1,1 +1,1 @@
-node default { notify { 'alpha': } }
+node default { notify { 'beta': } }

@@ -14,4 +14,5 @@
 
 forge "https://forgeapi.puppetlabs.com"
 
+mod 'puppetlabs-stdlib',         '4.13.1'
 mod 'reidmv-pe_mco_shell_agent', '1.1.0'
